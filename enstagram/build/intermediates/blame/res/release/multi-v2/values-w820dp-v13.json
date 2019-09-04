@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\RAHUL\\AndroidStudioProjects\\Enstagram\\enstagram\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RAHUL\\AndroidStudioProjects\\Enstagram\\enstagram\\src\\main\\res\\values-w820dp\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,148",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "96,143,194"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\RAHUL\\AndroidStudioProjects\\Enstagram\\enstagram\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "606",
+                        "endColumns": "57",
+                        "endOffsets": "659"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "199",
+                        "endColumns": "57",
+                        "endOffsets": "252"
+                    }
+                }
+            ]
+        }
+    ]
+}

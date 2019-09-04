@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3d3117cefbeed15d5dd1d03be7a2e07d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\df500d55a49b9e9fadd0c16b7196f97e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\f15b3cd554be4f41ba594b3127c0c312\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\44419dc1731c4a0bd9075a440278737f\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\fee4d7b50ac7845310a3f43362694d88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\a66476f533a034d86ebc01cfc693f2cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\55f0eae8c5565f661d80a345c380c168\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\5458f4440d7abf61800e902548e69e20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c12fd486891e62a17e1c7f694cacc98e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4b24f3a81fbafae1b47db5007747b392\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\aeb43f4e5bbe21c70c893bbb87e7476c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f2089a5773498d30bb12392463953334\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4ac431eb0ce5affc13b4d4d067cb3b43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\356c8583d8ca0abee501fba164787acc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\aef58ff384144c5d2c95de3af10b0d5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\61d3c20d5c6640972bcef1a1bf003a34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\fa18b916e488ef7b1c5f9b34f0befa1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cffabb085c937d5af18ca80fe1b6848d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1d620c2bc48b8839b1356b09a0068f9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\52974ea762171b01599d4162aad4890c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\56180154ef4cbbef985f8297cbf6a153\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9b92625f34c69d8b57c78f18144dfbda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\d57e9bd95280a9eb231e0795ead5f038\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9917be029227f4a78752126c067e59c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\badbf866da4e89f238b9f3cd009225b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a3896c71057907c235edd1417e20f136\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\cc7cd5a4d459d08db8d2e6b8b9e9922a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3c3ed310995d200f5d05f133523c844e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4548049c80552991bf4fb4943a085fca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\cfdde26669b4c847c5f2010667da2ee3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a70fc99f3f12c9c800340ec916ed5949\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\91176740a5cc4b17cb1637941c3d9cab\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:12:22-73
+uses-feature#android.hardware.camera
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:14:5-16:35
+	android:required
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:16:9-32
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:15:9-47
+application
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:18:5-47:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3d3117cefbeed15d5dd1d03be7a2e07d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3d3117cefbeed15d5dd1d03be7a2e07d\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\44419dc1731c4a0bd9075a440278737f\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\44419dc1731c4a0bd9075a440278737f\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\52974ea762171b01599d4162aad4890c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\52974ea762171b01599d4162aad4890c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\56180154ef4cbbef985f8297cbf6a153\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\56180154ef4cbbef985f8297cbf6a153\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\d57e9bd95280a9eb231e0795ead5f038\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\d57e9bd95280a9eb231e0795ead5f038\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\52974ea762171b01599d4162aad4890c\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:19:9-64
+activity#com.solanki.enstagram.Share_Images
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:24:9-80
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:24:19-68
+activity#com.solanki.enstagram.MainActivity
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:26:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:31:27-74
+activity#com.solanki.enstagram.ListActivity
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:34:19-68
+activity#com.solanki.enstagram.UserFeedActivity
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:35:9-75
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:35:19-72
+activity#com.solanki.enstagram.MyFeedActivity
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:36:9-73
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:36:19-70
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:38:9-46:20
+	android:grantUriPermissions
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:42:13-47
+	android:authorities
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:40:13-65
+	android:exported
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:39:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:43:13-45:54
+	android:resource
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:45:17-51
+	android:name
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml:44:17-67
+uses-sdk
+INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
+INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3d3117cefbeed15d5dd1d03be7a2e07d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3d3117cefbeed15d5dd1d03be7a2e07d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\df500d55a49b9e9fadd0c16b7196f97e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\df500d55a49b9e9fadd0c16b7196f97e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\f15b3cd554be4f41ba594b3127c0c312\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\f15b3cd554be4f41ba594b3127c0c312\AndroidManifest.xml:20:5-43
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\44419dc1731c4a0bd9075a440278737f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\44419dc1731c4a0bd9075a440278737f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\fee4d7b50ac7845310a3f43362694d88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\fee4d7b50ac7845310a3f43362694d88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\a66476f533a034d86ebc01cfc693f2cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\a66476f533a034d86ebc01cfc693f2cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\55f0eae8c5565f661d80a345c380c168\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\55f0eae8c5565f661d80a345c380c168\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\5458f4440d7abf61800e902548e69e20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\5458f4440d7abf61800e902548e69e20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c12fd486891e62a17e1c7f694cacc98e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c12fd486891e62a17e1c7f694cacc98e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4b24f3a81fbafae1b47db5007747b392\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4b24f3a81fbafae1b47db5007747b392\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\aeb43f4e5bbe21c70c893bbb87e7476c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\aeb43f4e5bbe21c70c893bbb87e7476c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f2089a5773498d30bb12392463953334\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f2089a5773498d30bb12392463953334\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4ac431eb0ce5affc13b4d4d067cb3b43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4ac431eb0ce5affc13b4d4d067cb3b43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\356c8583d8ca0abee501fba164787acc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\356c8583d8ca0abee501fba164787acc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\aef58ff384144c5d2c95de3af10b0d5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\aef58ff384144c5d2c95de3af10b0d5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\61d3c20d5c6640972bcef1a1bf003a34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\61d3c20d5c6640972bcef1a1bf003a34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\fa18b916e488ef7b1c5f9b34f0befa1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\fa18b916e488ef7b1c5f9b34f0befa1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cffabb085c937d5af18ca80fe1b6848d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cffabb085c937d5af18ca80fe1b6848d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1d620c2bc48b8839b1356b09a0068f9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1d620c2bc48b8839b1356b09a0068f9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\52974ea762171b01599d4162aad4890c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\52974ea762171b01599d4162aad4890c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\56180154ef4cbbef985f8297cbf6a153\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\56180154ef4cbbef985f8297cbf6a153\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9b92625f34c69d8b57c78f18144dfbda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9b92625f34c69d8b57c78f18144dfbda\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\d57e9bd95280a9eb231e0795ead5f038\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\d57e9bd95280a9eb231e0795ead5f038\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9917be029227f4a78752126c067e59c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9917be029227f4a78752126c067e59c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\badbf866da4e89f238b9f3cd009225b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\badbf866da4e89f238b9f3cd009225b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a3896c71057907c235edd1417e20f136\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a3896c71057907c235edd1417e20f136\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\cc7cd5a4d459d08db8d2e6b8b9e9922a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\cc7cd5a4d459d08db8d2e6b8b9e9922a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3c3ed310995d200f5d05f133523c844e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3c3ed310995d200f5d05f133523c844e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4548049c80552991bf4fb4943a085fca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4548049c80552991bf4fb4943a085fca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\cfdde26669b4c847c5f2010667da2ee3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\cfdde26669b4c847c5f2010667da2ee3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a70fc99f3f12c9c800340ec916ed5949\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a70fc99f3f12c9c800340ec916ed5949\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\91176740a5cc4b17cb1637941c3d9cab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\91176740a5cc4b17cb1637941c3d9cab\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
+INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RAHUL\AndroidStudioProjects\Enstagram\enstagram\src\main\AndroidManifest.xml
